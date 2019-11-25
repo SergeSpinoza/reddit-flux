@@ -19,7 +19,7 @@ spec:
     ui:
       image:
         repository: s1spinoza/ui
-        tag: 0.2.4
+        tag: 0.2.7
     post:
       image:
         repository: s1spinoza/post
